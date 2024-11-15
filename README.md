@@ -1,1 +1,1 @@
-# my-state-management
+# Create Flutter state management lib
